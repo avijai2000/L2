@@ -1,0 +1,15 @@
+executable = L2.sh
+Arguments = "$(cmd)"
+
+log = /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/logs/$(job_name).log
+output = /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/logs/$(job_name).out
+error = /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/logs/$(job_name).err
+
+request_memory = 2000MB
+request_disk = 1000MB
+request_gpus=1
+
+Universe        = vanilla
+Notification    = never
+
+queue

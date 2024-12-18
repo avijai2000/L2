@@ -1,0 +1,110 @@
+JOB 11_9_L2 L2.sub
+VARS 11_9_L2 job_name="11_9_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run9 --stat 11 '"
+JOB 11_10_L2 L2.sub
+VARS 11_10_L2 job_name="11_10_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run10 --stat 11 '"
+JOB 11_11_L2 L2.sub
+VARS 11_11_L2 job_name="11_11_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run11 --stat 11 '"
+JOB 11_12_L2 L2.sub
+VARS 11_12_L2 job_name="11_12_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run12 --stat 11 '"
+JOB 11_13_L2 L2.sub
+VARS 11_13_L2 job_name="11_13_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run13 --stat 11 '"
+JOB 11_14_L2 L2.sub
+VARS 11_14_L2 job_name="11_14_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run14 --stat 11 '"
+JOB 11_15_L2 L2.sub
+VARS 11_15_L2 job_name="11_15_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run15 --stat 11 '"
+JOB 11_16_L2 L2.sub
+VARS 11_16_L2 job_name="11_16_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run16 --stat 11 '"
+JOB 11_17_L2 L2.sub
+VARS 11_17_L2 job_name="11_17_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run17 --stat 11 '"
+JOB 11_18_L2 L2.sub
+VARS 11_18_L2 job_name="11_18_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run18 --stat 11 '"
+JOB 11_19_L2 L2.sub
+VARS 11_19_L2 job_name="11_19_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run19 --stat 11 '"
+JOB 11_20_L2 L2.sub
+VARS 11_20_L2 job_name="11_20_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run20 --stat 11 '"
+JOB 11_21_L2 L2.sub
+VARS 11_21_L2 job_name="11_21_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run21 --stat 11 '"
+JOB 11_22_L2 L2.sub
+VARS 11_22_L2 job_name="11_22_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run22 --stat 11 '"
+JOB 11_23_L2 L2.sub
+VARS 11_23_L2 job_name="11_23_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run23 --stat 11 '"
+JOB 11_24_L2 L2.sub
+VARS 11_24_L2 job_name="11_24_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run24 --stat 11 '"
+JOB 11_25_L2 L2.sub
+VARS 11_25_L2 job_name="11_25_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run25 --stat 11 '"
+JOB 11_26_L2 L2.sub
+VARS 11_26_L2 job_name="11_26_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run26 --stat 11 '"
+JOB 11_27_L2 L2.sub
+VARS 11_27_L2 job_name="11_27_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run27 --stat 11 '"
+JOB 11_28_L2 L2.sub
+VARS 11_28_L2 job_name="11_28_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run28 --stat 11 '"
+JOB 11_29_L2 L2.sub
+VARS 11_29_L2 job_name="11_29_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run29 --stat 11 '"
+JOB 11_30_L2 L2.sub
+VARS 11_30_L2 job_name="11_30_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run30 --stat 11 '"
+JOB 11_31_L2 L2.sub
+VARS 11_31_L2 job_name="11_31_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run31 --stat 11 '"
+JOB 11_32_L2 L2.sub
+VARS 11_32_L2 job_name="11_32_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run32 --stat 11 '"
+JOB 11_33_L2 L2.sub
+VARS 11_33_L2 job_name="11_33_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run33 --stat 11 '"
+JOB 11_34_L2 L2.sub
+VARS 11_34_L2 job_name="11_34_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run34 --stat 11 '"
+JOB 11_35_L2 L2.sub
+VARS 11_35_L2 job_name="11_35_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run35 --stat 11 '"
+JOB 11_36_L2 L2.sub
+VARS 11_36_L2 job_name="11_36_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run36 --stat 11 '"
+JOB 11_37_L2 L2.sub
+VARS 11_37_L2 job_name="11_37_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run37 --stat 11 '"
+JOB 11_38_L2 L2.sub
+VARS 11_38_L2 job_name="11_38_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run38 --stat 11 '"
+JOB 11_39_L2 L2.sub
+VARS 11_39_L2 job_name="11_39_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run39 --stat 11 '"
+JOB 11_40_L2 L2.sub
+VARS 11_40_L2 job_name="11_40_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run40 --stat 11 '"
+JOB 11_41_L2 L2.sub
+VARS 11_41_L2 job_name="11_41_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run41 --stat 11 '"
+JOB 11_43_L2 L2.sub
+VARS 11_43_L2 job_name="11_43_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run43 --stat 11 '"
+JOB 11_44_L2 L2.sub
+VARS 11_44_L2 job_name="11_44_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run44 --stat 11 '"
+JOB 11_45_L2 L2.sub
+VARS 11_45_L2 job_name="11_45_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run45 --stat 11 '"
+JOB 11_46_L2 L2.sub
+VARS 11_46_L2 job_name="11_46_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run46 --stat 11 '"
+JOB 11_47_L2 L2.sub
+VARS 11_47_L2 job_name="11_47_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run47 --stat 11 '"
+JOB 11_48_L2 L2.sub
+VARS 11_48_L2 job_name="11_48_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run48 --stat 11 '"
+JOB 11_59_L2 L2.sub
+VARS 11_59_L2 job_name="11_59_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run59 --stat 11 '"
+JOB 11_60_L2 L2.sub
+VARS 11_60_L2 job_name="11_60_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run60 --stat 11 '"
+JOB 11_61_L2 L2.sub
+VARS 11_61_L2 job_name="11_61_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run61 --stat 11 '"
+JOB 11_62_L2 L2.sub
+VARS 11_62_L2 job_name="11_62_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run62 --stat 11 '"
+JOB 11_63_L2 L2.sub
+VARS 11_63_L2 job_name="11_63_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run63 --stat 11 '"
+JOB 11_64_L2 L2.sub
+VARS 11_64_L2 job_name="11_64_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run64 --stat 11 '"
+JOB 11_65_L2 L2.sub
+VARS 11_65_L2 job_name="11_65_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run65 --stat 11 '"
+JOB 11_66_L2 L2.sub
+VARS 11_66_L2 job_name="11_66_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run66 --stat 11 '"
+JOB 11_67_L2 L2.sub
+VARS 11_67_L2 job_name="11_67_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run67 --stat 11 '"
+JOB 11_68_L2 L2.sub
+VARS 11_68_L2 job_name="11_68_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run68 --stat 11 '"
+JOB 11_69_L2 L2.sub
+VARS 11_69_L2 job_name="11_69_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run69 --stat 11 '"
+JOB 11_70_L2 L2.sub
+VARS 11_70_L2 job_name="11_70_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run70 --stat 11 '"
+JOB 11_71_L2 L2.sub
+VARS 11_71_L2 job_name="11_71_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run71 --stat 11 '"
+JOB 11_72_L2 L2.sub
+VARS 11_72_L2 job_name="11_72_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run72 --stat 11 '"
+JOB 11_73_L2 L2.sub
+VARS 11_73_L2 job_name="11_73_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run73 --stat 11 '"
+JOB 11_74_L2 L2.sub
+VARS 11_74_L2 job_name="11_74_L2" cmd="'python3 /data/condor_builds/users/avijai/RNO_reco/rno_dep/source/NuRadioMC/NuRadioReco/examples/RNO_data/read_data_example/L2.py --file /data/i3store/users/avijai/station_runs/station11/run74 --stat 11 '"
